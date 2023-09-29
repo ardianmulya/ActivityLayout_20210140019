@@ -43,8 +43,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:textSize="20dp"
-        android:text="TextView" />
+        android:textSize="35dp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:text="BuyNow" />
 
     <ImageView
         android:id="@+id/imageView4"
@@ -52,5 +54,12 @@
         android:layout_height="100dp"
         android:layout_gravity="center|left"
         app:srcCompat="@drawable/left_arrow" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center|right"
+        app:srcCompat="@drawable/right_arrow" />
 
 </FrameLayout>
