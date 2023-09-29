@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Judul">Hello Kelas A</string>
+    <string name="Nama">Kucing</string>
+    <string name="NoHp">081340985061</string>
+    <string name="ScanButton">Scan Button</string>
+</resources>
