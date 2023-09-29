@@ -46,4 +46,11 @@
         android:textSize="20dp"
         android:text="TextView" />
 
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center|left"
+        app:srcCompat="@drawable/left_arrow" />
+
 </FrameLayout>
