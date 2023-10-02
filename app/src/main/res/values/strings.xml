@@ -4,4 +4,10 @@
     <string name="Nama">Kucing</string>
     <string name="NoHp">081340985061</string>
     <string name="ScanButton">Scan Button</string>
+    <string name="button1">Button1</string>
+    <string name="button2">Button2</string>
+    <string name="button3">MATCH PARENT</string>
+    <string name="buttonRight">Right</string>
+    <string name="buttonLeft">Left</string>
+    <string name="content">Select Your Vehicle</string>
 </resources>
